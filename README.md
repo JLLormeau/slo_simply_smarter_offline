@@ -1,6 +1,9 @@
 # Offline installation for SLO Simply Smarter
 
-## 1) Create an `APi-Token` with this scope :
+## 1) Download ZIP
+
+
+## 2) Create an `APi-Token` with this scope :
 
  - Access problem and event feed, metrics, and topology
  - Read configuration 
@@ -16,7 +19,7 @@
   (*) optionnel for BizOps only ([detail](https://dynatrace.github.io/BizOpsConfigurator/index.html#prerequisites))  
 
   
-## 2) Automatic installation and update with `script python`
+## 3) Automatic installation and update with `script python`
 Prerequisite : requests installed 
  
     python 3.6+
