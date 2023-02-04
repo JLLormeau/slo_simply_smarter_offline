@@ -2,6 +2,7 @@
 
 ## 1) Download ZIP
 
+https://github.com/JLLormeau/slo_simply_smarter_offline/archive/refs/heads/main.zip
 
 ## 2) Create an `APi-Token` with this scope :
 
