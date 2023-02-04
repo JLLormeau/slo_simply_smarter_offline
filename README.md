@@ -1,11 +1,6 @@
 # Offline installation for SLO Simply Smarter
 
-## 1) Prerequisites
-
-- `Host Group` and `Management Zone` best practices with [Deployment best practices](https://github.com/dynatrace-ace-services/quickstart-ace-configurator)
-- `ITSM integration` best practices with [Easy ITSM integration](https://github.com/dynatrace-ace-services/easy-itsm-integration/blob/main/Readme.md)
-
-## 2) Create an `APi-Token` with this scope :
+## 1) Create an `APi-Token` with this scope :
 
  - Access problem and event feed, metrics, and topology
  - Read configuration 
@@ -21,7 +16,7 @@
   (*) optionnel for BizOps only ([detail](https://dynatrace.github.io/BizOpsConfigurator/index.html#prerequisites))  
 
   
-## 3) Automatic installation and update with `script python`
+## 2) Automatic installation and update with `script python`
 Prerequisite : requests installed 
  
     python 3.6+
