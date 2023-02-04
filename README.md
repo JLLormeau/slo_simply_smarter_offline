@@ -26,7 +26,9 @@ Apply these variables
     export MyTenant=domaine.com/e/abcd12234 for managed (without https://...)
     export MyToken=dt0c01.1234ABCD.XXXX
     export Owner=smarter (optional - no need to define this user in the UI)
-       
+
+Run the script
+
     python3 Deploy_and_Update_SLO_Simply_Smarter.py
     
    ![image](https://user-images.githubusercontent.com/40337213/211930107-21d89c32-55fa-4dfb-a36d-6ce6b1182ffb.png)  
