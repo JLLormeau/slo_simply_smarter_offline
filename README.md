@@ -15,7 +15,7 @@ https://github.com/JLLormeau/slo_simply_smarter_offline/archive/refs/heads/main.
  - Write SLO
  
   
-## 3) Automatic installation and update with `script python`
+## 3) Automatic installation and update with `python script`
 Prerequisite : requests installed 
  
     python 3.6+
