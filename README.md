@@ -1,5 +1,7 @@
 # Offline installation for SLO Simply Smarter
 
+Latest update : 02/04/2023
+
 ## 1) Download ZIP
 on linux or windows and un zip file
 
