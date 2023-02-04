@@ -1,8 +1,10 @@
 # Offline installation for SLO Simply Smarter
 
 ## 1) Download ZIP
+on linux or windows and un zip file
 
 https://github.com/JLLormeau/slo_simply_smarter_offline/archive/refs/heads/main.zip
+
 
 ## 2) Create an `APi-Token` with this scope :
 
